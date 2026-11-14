@@ -14,6 +14,7 @@ Data Analyst formé à l'analyse statistique (Master et mémoire de recherche), 
 | [**SNCF-Ponctualite-Analyse**](https://github.com/Alex-LC0/SNCF-Ponctualite-Analyse) | Analyse de la ponctualité des lignes TGV à partir des données publiques de la SNCF : collecte via API, tests statistiques non paramétriques et dashboard. | Python, API, SQL, Power BI |
 | [**Analyse-Chinook-Database**](https://github.com/Alex-LC0/Analyse-Chinook-Database) | Analyse des ventes et du catalogue de la base Chinook pour identifier des KPI sur les pôles ventes et produits. | SQL, Python, Google Sheets |
 | [**Analyse-prix-carburant**](https://github.com/Alex-LC0/Analyse-prix-carburant) | Récupération automatisée de données et actualisation d'un dashboard Power BI. | Python, Power BI, API |
+| [**analyse-dvf-dpe**](https://github.com/Alex-LC0/analyse-dvf_dpe) | Analyse de l'impact du DPE sur le prix de l'immobilier dans la Drôme | Python, Power BI|
 
 ---
 
